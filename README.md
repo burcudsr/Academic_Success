@@ -3,8 +3,8 @@
 This project focuses on predicting student academic success using machine learning. The model is based on comprehensive student data, developed during the **Kaggle Playground Series - Season 4, Episode 6**.
 
 ### 🚀 Live Demo & Interactive App
-Explore the interactive prediction model and test it in real-time:
-https://academic-success-model.streamlit.app
+Explore the interactive prediction model and test it in real-time: **[Academic Success Prediction App](https://academic-success-model.streamlit.app)**
+
 
 ### 📊 Dataset & Preprocessing
 The dataset provides deep insights into student demographics, socioeconomic factors, and academic performance. Key preprocessing steps include:
