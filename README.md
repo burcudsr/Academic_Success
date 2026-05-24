@@ -4,7 +4,7 @@ This project focuses on predicting student academic success using machine learni
 
 ### 🚀 Live Demo & Interactive App
 Explore the interactive prediction model and test it in real-time:
-https://academicsuccessmodel-4jgbqvdibfuz399xmvfq7n.streamlit.app/
+https://academic-success-model.streamlit.app
 
 ### 📊 Dataset & Preprocessing
 The dataset provides deep insights into student demographics, socioeconomic factors, and academic performance. Key preprocessing steps include:
